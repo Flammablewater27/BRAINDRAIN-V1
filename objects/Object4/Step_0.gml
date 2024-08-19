@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-show_message("Tiernan")
-show_message("Github Tiernan")
+show_message("Tiernan");
+show_message("Github Tiernan");
