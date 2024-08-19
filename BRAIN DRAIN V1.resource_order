@@ -17,9 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Object1","order":16,"path":"objects/Object1/Object1.yy",},
-    {"name":"Object2","order":17,"path":"objects/Object2/Object2.yy",},
-    {"name":"Object3","order":18,"path":"objects/Object3/Object3.yy",},
-    {"name":"Object4","order":19,"path":"objects/Object4/Object4.yy",},
+    {"name":"reset_variables","order":1,"path":"scripts/reset_variables/reset_variables.yy",},
   ],
 }

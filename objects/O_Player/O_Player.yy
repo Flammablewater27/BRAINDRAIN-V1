@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
-  "eventList":[],
+  "%Name":"O_Player",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object2",
+  "name":"O_Player",
   "overriddenProperties":[],
   "parent":{
-    "name":"BRAIN DRAIN V1",
-    "path":"BRAIN DRAIN V1.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Player",
+    "path":"sprites/S_Player/S_Player.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
