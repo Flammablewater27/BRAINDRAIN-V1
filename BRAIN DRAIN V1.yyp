@@ -43,6 +43,7 @@
     {"id":{"name":"reset_variables","path":"scripts/reset_variables/reset_variables.yy",},},
     {"id":{"name":"S_Player","path":"sprites/S_Player/S_Player.yy",},},
     {"id":{"name":"S_Solid","path":"sprites/S_Solid/S_Solid.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
