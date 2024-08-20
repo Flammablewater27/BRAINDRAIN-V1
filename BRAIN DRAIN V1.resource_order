@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"o_solid","order":1,"path":"objects/o_solid/o_solid.yy",},
+    {"name":"calc_movement","order":2,"path":"scripts/calc_movement/calc_movement.yy",},
+    {"name":"collision","order":3,"path":"scripts/collision/collision.yy",},
     {"name":"reset_variables","order":1,"path":"scripts/reset_variables/reset_variables.yy",},
+    {"name":"S_Solid","order":1,"path":"sprites/S_Solid/S_Solid.yy",},
   ],
 }
