@@ -10,8 +10,8 @@
   "name":"O_Player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Player",
+    "path":"folders/Player.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,9 +32,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Player",
-    "path":"sprites/S_Player/S_Player.yy",
+    "name":"s_player_walk",
+    "path":"sprites/s_player_walk/s_player_walk.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"s_player_walk",
+    "path":"sprites/s_player_walk/s_player_walk.yy",
+  },
   "visible":true,
 }

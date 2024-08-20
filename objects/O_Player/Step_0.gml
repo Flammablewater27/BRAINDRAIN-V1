@@ -18,3 +18,10 @@ script_execute(get_input);
 /// @DnDArgument : "script" "calc_movement"
 /// @DnDSaveInfo : "script" "calc_movement"
 script_execute(calc_movement);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 19C8996A
+/// @DnDArgument : "script" "anim"
+/// @DnDSaveInfo : "script" "anim"
+script_execute(anim);
