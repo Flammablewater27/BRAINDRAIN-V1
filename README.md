@@ -1,0 +1,1 @@
+Hello, Flammable. It's me, Vog. If you are reading this, I am dead. Abbey Caroll has found and murdered me. I don't know when or how, but she's coming for you now. You're next. Run. The next viking uprising begins now.
