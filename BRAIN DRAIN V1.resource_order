@@ -23,5 +23,6 @@
     {"name":"reset_variables","order":1,"path":"scripts/reset_variables/reset_variables.yy",},
     {"name":"S_Solid","order":1,"path":"sprites/S_Solid/S_Solid.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
